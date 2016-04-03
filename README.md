@@ -6,4 +6,4 @@ JavaScriptの汎用ソース
 ・addEventListener("click")  
 ・addEventListener("mousemove")  
   
-(Event reference)[https://developer.mozilla.org/en-US/docs/Web/Events]  
+[Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)  
